@@ -1,0 +1,14 @@
+@font-face{
+	src:url('../fonts/lora/Lora-Italic.ttf');
+	font-family: Lora-Italic;
+}
+
+@font-face{
+	src:url('../fonts/Roboto_Mono/Roboto-Regular-webfont.ttf');
+	font-family: Roboto-Reguar-webfont.ttf;
+}
+#ptag{
+	font-family: Roboto-Reguar-webfont;
+	background-color: yellow;
+	color: black;
+}
